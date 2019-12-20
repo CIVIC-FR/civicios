@@ -1,0 +1,6 @@
+framework module Pods_civic {
+  umbrella header "Pods-civic-umbrella.h"
+
+  export *
+  module * { export * }
+}
